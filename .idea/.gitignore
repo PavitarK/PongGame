@@ -1,4 +1,6 @@
 # Default ignored files
 /workspace.xml
-compiler.xml
 uiDesigner.xml
+target/
+idea/compiler.xml
+.kotlin_module
